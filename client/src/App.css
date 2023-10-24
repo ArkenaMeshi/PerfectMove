@@ -1,0 +1,116 @@
+
+.hero-section {
+  background-image: url("./assets/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+  margin: 0px 92px 10px 92px;
+  color: white;
+}
+.container-register {
+  background-image: url("./assets/login.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  min-height: 500px;
+  margin-top: 100px;
+}
+
+.header {
+  transform: translateY(50%);
+}
+
+.svg-icons {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.search-button {
+  border-radius: 30px !important;
+  background-color: #acd5e9 !important;
+  color: white !important;
+}
+
+.search-icon {
+  height: 15px;
+}
+
+.input-group .location-radius {
+  background-color: white !important;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.search-radius {
+  background-color: white !important;
+  border-top-right-radius: 30px !important;
+  border-bottom-right-radius: 30px !important;
+}
+.heart-icon {
+  height: 40px;
+  margin: 10px;
+  color: red;
+  fill: red;
+}
+.cards div {
+  margin: 0 auto;
+}
+.logo_image {
+  width: 55px;
+}
+/* nav {
+  background-color: #acd5e9;
+} */
+.rent-button {
+  background-color: #70e5a1;
+  border: none;
+  color: white;
+  border-radius: 30px;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 25px;
+}
+.goback {
+  margin-bottom: 10px;
+  border-radius: 30px !important;
+  background-color: #acd5e9 !important;
+  border: none;
+}
+.btn-info {
+  border-radius: 30px !important;
+  background-color: #acd5e9 !important;
+  color: white !important;
+  width: 135px;
+}
+/* .card {
+  border: none!important;
+} */
+.list {
+  margin-top: 10px;
+  font-family: Verdana, Helvetica, Sans-Serif;
+}
+.profile-list {
+  margin: 10px;
+}
+
+.text-about {
+  text-align: center;
+  background-color: rgba(199, 217, 217, 255);
+}
+.about_image {
+  background-image: url("./assets/about_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 450px;
+  margin: 0px 92px 10px 92px;
+  color: white;
+  padding: 30px;
+}
+
+.test-disabled {
+  background-color: gray;
+}
+
+.cursor-na {
+  cursor: not-allowed;
+} 
